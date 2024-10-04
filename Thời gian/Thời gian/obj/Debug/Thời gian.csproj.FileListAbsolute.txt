@@ -1,0 +1,7 @@
+D:\Lập trình hướng đối tượng\Thời gian\Thời gian\bin\Debug\Thời gian.exe.config
+D:\Lập trình hướng đối tượng\Thời gian\Thời gian\bin\Debug\Thời gian.exe
+D:\Lập trình hướng đối tượng\Thời gian\Thời gian\bin\Debug\Thời gian.pdb
+D:\Lập trình hướng đối tượng\Thời gian\Thời gian\obj\Debug\Thời gian.csproj.AssemblyReference.cache
+D:\Lập trình hướng đối tượng\Thời gian\Thời gian\obj\Debug\Thời gian.csproj.CoreCompileInputs.cache
+D:\Lập trình hướng đối tượng\Thời gian\Thời gian\obj\Debug\Thời gian.exe
+D:\Lập trình hướng đối tượng\Thời gian\Thời gian\obj\Debug\Thời gian.pdb

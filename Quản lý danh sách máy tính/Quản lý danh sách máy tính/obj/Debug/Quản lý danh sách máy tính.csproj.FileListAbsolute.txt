@@ -1,0 +1,7 @@
+D:\Lập trình hướng đối tượng\Quản lý danh sách máy tính\Quản lý danh sách máy tính\bin\Debug\Quản lý danh sách máy tính.exe.config
+D:\Lập trình hướng đối tượng\Quản lý danh sách máy tính\Quản lý danh sách máy tính\bin\Debug\Quản lý danh sách máy tính.exe
+D:\Lập trình hướng đối tượng\Quản lý danh sách máy tính\Quản lý danh sách máy tính\bin\Debug\Quản lý danh sách máy tính.pdb
+D:\Lập trình hướng đối tượng\Quản lý danh sách máy tính\Quản lý danh sách máy tính\obj\Debug\Quản lý danh sách máy tính.csproj.AssemblyReference.cache
+D:\Lập trình hướng đối tượng\Quản lý danh sách máy tính\Quản lý danh sách máy tính\obj\Debug\Quản lý danh sách máy tính.csproj.CoreCompileInputs.cache
+D:\Lập trình hướng đối tượng\Quản lý danh sách máy tính\Quản lý danh sách máy tính\obj\Debug\Quản lý danh sách máy tính.exe
+D:\Lập trình hướng đối tượng\Quản lý danh sách máy tính\Quản lý danh sách máy tính\obj\Debug\Quản lý danh sách máy tính.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\C#\\Bi\u00EAn lai kh\u00E1ch h\u00E0ng\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DCE4CA-2D2C-46F7-8566-5E9546A6468B}|Bi\u00EAn lai kh\u00E1ch h\u00E0ng\\Bi\u00EAn lai kh\u00E1ch h\u00E0ng.csproj|e:\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\c#\\bi\u00EAn lai kh\u00E1ch h\u00E0ng\\bi\u00EAn lai kh\u00E1ch h\u00E0ng\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7DCE4CA-2D2C-46F7-8566-5E9546A6468B}|Bi\u00EAn lai kh\u00E1ch h\u00E0ng\\Bi\u00EAn lai kh\u00E1ch h\u00E0ng.csproj|solutionrelative:bi\u00EAn lai kh\u00E1ch h\u00E0ng\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\C#\\Bi\u00EAn lai kh\u00E1ch h\u00E0ng\\Bi\u00EAn lai kh\u00E1ch h\u00E0ng\\Program.cs",
+              "RelativeDocumentMoniker": "Bi\u00EAn lai kh\u00E1ch h\u00E0ng\\Program.cs",
+              "ToolTip": "E:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\C#\\Bi\u00EAn lai kh\u00E1ch h\u00E0ng\\Bi\u00EAn lai kh\u00E1ch h\u00E0ng\\Program.cs",
+              "RelativeToolTip": "Bi\u00EAn lai kh\u00E1ch h\u00E0ng\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:42:50.182Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

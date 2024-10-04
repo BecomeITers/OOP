@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Th\u1EDDi gian\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD876A03-2AC2-4C63-9426-94EB8D85BF80}|Th\u1EDDi gian\\Th\u1EDDi gian.csproj|D:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Th\u1EDDi gian\\th\u1EDDi gian\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD876A03-2AC2-4C63-9426-94EB8D85BF80}|Th\u1EDDi gian\\Th\u1EDDi gian.csproj|solutionrelative:th\u1EDDi gian\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD876A03-2AC2-4C63-9426-94EB8D85BF80}|Th\u1EDDi gian\\Th\u1EDDi gian.csproj|d:\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\th\u1EDDi gian\\th\u1EDDi gian\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD876A03-2AC2-4C63-9426-94EB8D85BF80}|Th\u1EDDi gian\\Th\u1EDDi gian.csproj|solutionrelative:th\u1EDDi gian\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Th\u1EDDi gian\\Th\u1EDDi gian\\Program.cs",
+              "RelativeDocumentMoniker": "Th\u1EDDi gian\\Program.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Th\u1EDDi gian\\Th\u1EDDi gian\\Program.cs",
+              "RelativeToolTip": "Th\u1EDDi gian\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T02:14:31.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Time.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Th\u1EDDi gian\\Th\u1EDDi gian\\Time.cs",
+              "RelativeDocumentMoniker": "Th\u1EDDi gian\\Time.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Th\u1EDDi gian\\Th\u1EDDi gian\\Time.cs",
+              "RelativeToolTip": "Th\u1EDDi gian\\Time.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAA+wE8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T02:14:48.495Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+E:\Lập trình hướng đối tượng\C#\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+E:\Lập trình hướng đối tượng\C#\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+E:\Lập trình hướng đối tượng\C#\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+E:\Lập trình hướng đối tượng\C#\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+E:\Lập trình hướng đối tượng\C#\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+E:\Lập trình hướng đối tượng\C#\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+E:\Lập trình hướng đối tượng\C#\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

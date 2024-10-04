@@ -1,0 +1,7 @@
+E:\Lập trình hướng đối tượng\C#\Cách nhập input và output\Cách nhập input và output\bin\Debug\Cách nhập input và output.exe.config
+E:\Lập trình hướng đối tượng\C#\Cách nhập input và output\Cách nhập input và output\bin\Debug\Cách nhập input và output.exe
+E:\Lập trình hướng đối tượng\C#\Cách nhập input và output\Cách nhập input và output\bin\Debug\Cách nhập input và output.pdb
+E:\Lập trình hướng đối tượng\C#\Cách nhập input và output\Cách nhập input và output\obj\Debug\Cách nhập input và output.csproj.AssemblyReference.cache
+E:\Lập trình hướng đối tượng\C#\Cách nhập input và output\Cách nhập input và output\obj\Debug\Cách nhập input và output.csproj.CoreCompileInputs.cache
+E:\Lập trình hướng đối tượng\C#\Cách nhập input và output\Cách nhập input và output\obj\Debug\Cách nhập input và output.exe
+E:\Lập trình hướng đối tượng\C#\Cách nhập input và output\Cách nhập input và output\obj\Debug\Cách nhập input và output.pdb

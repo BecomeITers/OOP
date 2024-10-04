@@ -1,0 +1,14 @@
+E:\Lập trình hướng đối tượng\C#\Kế thừa\Kế thừa\bin\Debug\Kế thừa.exe.config
+E:\Lập trình hướng đối tượng\C#\Kế thừa\Kế thừa\bin\Debug\Kế thừa.exe
+E:\Lập trình hướng đối tượng\C#\Kế thừa\Kế thừa\bin\Debug\Kế thừa.pdb
+E:\Lập trình hướng đối tượng\C#\Kế thừa\Kế thừa\obj\Debug\Kế thừa.csproj.AssemblyReference.cache
+E:\Lập trình hướng đối tượng\C#\Kế thừa\Kế thừa\obj\Debug\Kế thừa.csproj.CoreCompileInputs.cache
+E:\Lập trình hướng đối tượng\C#\Kế thừa\Kế thừa\obj\Debug\Kế thừa.exe
+E:\Lập trình hướng đối tượng\C#\Kế thừa\Kế thừa\obj\Debug\Kế thừa.pdb
+D:\Lập trình hướng đối tượng\Kế thừa\Kế thừa\bin\Debug\Kế thừa.exe.config
+D:\Lập trình hướng đối tượng\Kế thừa\Kế thừa\bin\Debug\Kế thừa.exe
+D:\Lập trình hướng đối tượng\Kế thừa\Kế thừa\bin\Debug\Kế thừa.pdb
+D:\Lập trình hướng đối tượng\Kế thừa\Kế thừa\obj\Debug\Kế thừa.csproj.AssemblyReference.cache
+D:\Lập trình hướng đối tượng\Kế thừa\Kế thừa\obj\Debug\Kế thừa.csproj.CoreCompileInputs.cache
+D:\Lập trình hướng đối tượng\Kế thừa\Kế thừa\obj\Debug\Kế thừa.exe
+D:\Lập trình hướng đối tượng\Kế thừa\Kế thừa\obj\Debug\Kế thừa.pdb

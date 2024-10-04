@@ -1,0 +1,7 @@
+E:\Lập trình hướng đối tượng\C#\Tác giả\Tác giả\bin\Debug\Tác giả.exe.config
+E:\Lập trình hướng đối tượng\C#\Tác giả\Tác giả\bin\Debug\Tác giả.exe
+E:\Lập trình hướng đối tượng\C#\Tác giả\Tác giả\bin\Debug\Tác giả.pdb
+E:\Lập trình hướng đối tượng\C#\Tác giả\Tác giả\obj\Debug\Tác giả.csproj.AssemblyReference.cache
+E:\Lập trình hướng đối tượng\C#\Tác giả\Tác giả\obj\Debug\Tác giả.csproj.CoreCompileInputs.cache
+E:\Lập trình hướng đối tượng\C#\Tác giả\Tác giả\obj\Debug\Tác giả.exe
+E:\Lập trình hướng đối tượng\C#\Tác giả\Tác giả\obj\Debug\Tác giả.pdb

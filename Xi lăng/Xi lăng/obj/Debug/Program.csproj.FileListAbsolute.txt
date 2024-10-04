@@ -1,0 +1,14 @@
+D:\Lập trình hướng đối tượng\Xi lăng\Xi lăng\bin\Debug\Xi lăng.exe.config
+D:\Lập trình hướng đối tượng\Xi lăng\Xi lăng\bin\Debug\Xi lăng.exe
+D:\Lập trình hướng đối tượng\Xi lăng\Xi lăng\bin\Debug\Xi lăng.pdb
+D:\Lập trình hướng đối tượng\Xi lăng\Xi lăng\obj\Debug\Program.csproj.AssemblyReference.cache
+D:\Lập trình hướng đối tượng\Xi lăng\Xi lăng\obj\Debug\Program.csproj.CoreCompileInputs.cache
+D:\Lập trình hướng đối tượng\Xi lăng\Xi lăng\obj\Debug\Xi lăng.exe
+D:\Lập trình hướng đối tượng\Xi lăng\Xi lăng\obj\Debug\Xi lăng.pdb
+E:\Lập trình hướng đối tượng\C#\Xi lăng\Xi lăng\bin\Debug\Xi lăng.exe.config
+E:\Lập trình hướng đối tượng\C#\Xi lăng\Xi lăng\bin\Debug\Xi lăng.exe
+E:\Lập trình hướng đối tượng\C#\Xi lăng\Xi lăng\bin\Debug\Xi lăng.pdb
+E:\Lập trình hướng đối tượng\C#\Xi lăng\Xi lăng\obj\Debug\Program.csproj.AssemblyReference.cache
+E:\Lập trình hướng đối tượng\C#\Xi lăng\Xi lăng\obj\Debug\Program.csproj.CoreCompileInputs.cache
+E:\Lập trình hướng đối tượng\C#\Xi lăng\Xi lăng\obj\Debug\Xi lăng.exe
+E:\Lập trình hướng đối tượng\C#\Xi lăng\Xi lăng\obj\Debug\Xi lăng.pdb

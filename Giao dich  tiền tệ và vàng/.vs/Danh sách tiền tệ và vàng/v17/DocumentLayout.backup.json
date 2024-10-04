@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\C#\\Danh s\u00E1ch ti\u1EC1n t\u1EC7 v\u00E0 v\u00E0ng\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A471F210-A995-4473-AE88-DC4A3DD52470}|Danh s\u00E1ch ti\u1EC1n t\u1EC7 v\u00E0 v\u00E0ng\\Danh s\u00E1ch ti\u1EC1n t\u1EC7 v\u00E0 v\u00E0ng.csproj|e:\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\c#\\danh s\u00E1ch ti\u1EC1n t\u1EC7 v\u00E0 v\u00E0ng\\danh s\u00E1ch ti\u1EC1n t\u1EC7 v\u00E0 v\u00E0ng\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A471F210-A995-4473-AE88-DC4A3DD52470}|Danh s\u00E1ch ti\u1EC1n t\u1EC7 v\u00E0 v\u00E0ng\\Danh s\u00E1ch ti\u1EC1n t\u1EC7 v\u00E0 v\u00E0ng.csproj|solutionrelative:danh s\u00E1ch ti\u1EC1n t\u1EC7 v\u00E0 v\u00E0ng\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\C#\\Danh s\u00E1ch ti\u1EC1n t\u1EC7 v\u00E0 v\u00E0ng\\Danh s\u00E1ch ti\u1EC1n t\u1EC7 v\u00E0 v\u00E0ng\\Program.cs",
+              "RelativeDocumentMoniker": "Danh s\u00E1ch ti\u1EC1n t\u1EC7 v\u00E0 v\u00E0ng\\Program.cs",
+              "ToolTip": "E:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\C#\\Danh s\u00E1ch ti\u1EC1n t\u1EC7 v\u00E0 v\u00E0ng\\Danh s\u00E1ch ti\u1EC1n t\u1EC7 v\u00E0 v\u00E0ng\\Program.cs",
+              "RelativeToolTip": "Danh s\u00E1ch ti\u1EC1n t\u1EC7 v\u00E0 v\u00E0ng\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T15:17:39.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

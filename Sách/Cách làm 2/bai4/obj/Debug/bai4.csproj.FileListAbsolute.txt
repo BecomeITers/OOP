@@ -1,0 +1,14 @@
+E:\hoctap\nam hai hk1\OOP\Exam2\bai4\bai4\bin\Debug\bai4.exe.config
+E:\hoctap\nam hai hk1\OOP\Exam2\bai4\bai4\bin\Debug\bai4.exe
+E:\hoctap\nam hai hk1\OOP\Exam2\bai4\bai4\bin\Debug\bai4.pdb
+E:\hoctap\nam hai hk1\OOP\Exam2\bai4\bai4\obj\Debug\bai4.csproj.AssemblyReference.cache
+E:\hoctap\nam hai hk1\OOP\Exam2\bai4\bai4\obj\Debug\bai4.csproj.CoreCompileInputs.cache
+E:\hoctap\nam hai hk1\OOP\Exam2\bai4\bai4\obj\Debug\bai4.exe
+E:\hoctap\nam hai hk1\OOP\Exam2\bai4\bai4\obj\Debug\bai4.pdb
+E:\Lập trình hướng đối tượng\C#\bai4\bai4\bin\Debug\bai4.exe.config
+E:\Lập trình hướng đối tượng\C#\bai4\bai4\bin\Debug\bai4.exe
+E:\Lập trình hướng đối tượng\C#\bai4\bai4\bin\Debug\bai4.pdb
+E:\Lập trình hướng đối tượng\C#\bai4\bai4\obj\Debug\bai4.csproj.AssemblyReference.cache
+E:\Lập trình hướng đối tượng\C#\bai4\bai4\obj\Debug\bai4.csproj.CoreCompileInputs.cache
+E:\Lập trình hướng đối tượng\C#\bai4\bai4\obj\Debug\bai4.exe
+E:\Lập trình hướng đối tượng\C#\bai4\bai4\obj\Debug\bai4.pdb

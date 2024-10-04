@@ -1,0 +1,7 @@
+D:\Lập trình hướng đối tượng\Xe\Xe\bin\Debug\Xe.exe.config
+D:\Lập trình hướng đối tượng\Xe\Xe\bin\Debug\Xe.exe
+D:\Lập trình hướng đối tượng\Xe\Xe\bin\Debug\Xe.pdb
+D:\Lập trình hướng đối tượng\Xe\Xe\obj\Debug\Xe.csproj.AssemblyReference.cache
+D:\Lập trình hướng đối tượng\Xe\Xe\obj\Debug\Xe.csproj.CoreCompileInputs.cache
+D:\Lập trình hướng đối tượng\Xe\Xe\obj\Debug\Xe.exe
+D:\Lập trình hướng đối tượng\Xe\Xe\obj\Debug\Xe.pdb

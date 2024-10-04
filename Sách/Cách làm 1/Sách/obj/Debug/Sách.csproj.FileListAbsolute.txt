@@ -1,0 +1,7 @@
+D:\Lập trình hướng đối tượng\Sách\Sách\bin\Debug\Sách.exe.config
+D:\Lập trình hướng đối tượng\Sách\Sách\bin\Debug\Sách.exe
+D:\Lập trình hướng đối tượng\Sách\Sách\bin\Debug\Sách.pdb
+D:\Lập trình hướng đối tượng\Sách\Sách\obj\Debug\Sách.csproj.AssemblyReference.cache
+D:\Lập trình hướng đối tượng\Sách\Sách\obj\Debug\Sách.csproj.CoreCompileInputs.cache
+D:\Lập trình hướng đối tượng\Sách\Sách\obj\Debug\Sách.exe
+D:\Lập trình hướng đối tượng\Sách\Sách\obj\Debug\Sách.pdb

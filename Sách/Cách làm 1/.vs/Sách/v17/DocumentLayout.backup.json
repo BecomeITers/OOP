@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\C#\\S\u00E1ch\\C\u00E1ch l\u00E0m 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F169B38-663D-446E-A73E-E92F8488BB16}|S\u00E1ch\\S\u00E1ch.csproj|e:\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\c#\\s\u00E1ch\\c\u00E1ch l\u00E0m 1\\s\u00E1ch\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F169B38-663D-446E-A73E-E92F8488BB16}|S\u00E1ch\\S\u00E1ch.csproj|solutionrelative:s\u00E1ch\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F169B38-663D-446E-A73E-E92F8488BB16}|S\u00E1ch\\S\u00E1ch.csproj|E:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\C#\\S\u00E1ch\\C\u00E1ch l\u00E0m 1\\s\u00E1ch\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F169B38-663D-446E-A73E-E92F8488BB16}|S\u00E1ch\\S\u00E1ch.csproj|solutionrelative:s\u00E1ch\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F169B38-663D-446E-A73E-E92F8488BB16}|S\u00E1ch\\S\u00E1ch.csproj|E:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\C#\\S\u00E1ch\\C\u00E1ch l\u00E0m 1\\s\u00E1ch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F169B38-663D-446E-A73E-E92F8488BB16}|S\u00E1ch\\S\u00E1ch.csproj|solutionrelative:s\u00E1ch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Author.cs",
+              "DocumentMoniker": "E:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\C#\\S\u00E1ch\\C\u00E1ch l\u00E0m 1\\S\u00E1ch\\Author.cs",
+              "RelativeDocumentMoniker": "S\u00E1ch\\Author.cs",
+              "ToolTip": "E:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\C#\\S\u00E1ch\\C\u00E1ch l\u00E0m 1\\S\u00E1ch\\Author.cs",
+              "RelativeToolTip": "S\u00E1ch\\Author.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAmwCgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:09:12.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\C#\\S\u00E1ch\\C\u00E1ch l\u00E0m 1\\S\u00E1ch\\Book.cs",
+              "RelativeDocumentMoniker": "S\u00E1ch\\Book.cs",
+              "ToolTip": "E:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\C#\\S\u00E1ch\\C\u00E1ch l\u00E0m 1\\S\u00E1ch\\Book.cs",
+              "RelativeToolTip": "S\u00E1ch\\Book.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:08:54.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\C#\\S\u00E1ch\\C\u00E1ch l\u00E0m 1\\S\u00E1ch\\Program.cs",
+              "RelativeDocumentMoniker": "S\u00E1ch\\Program.cs",
+              "ToolTip": "E:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\C#\\S\u00E1ch\\C\u00E1ch l\u00E0m 1\\S\u00E1ch\\Program.cs",
+              "RelativeToolTip": "S\u00E1ch\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:07:51.41Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

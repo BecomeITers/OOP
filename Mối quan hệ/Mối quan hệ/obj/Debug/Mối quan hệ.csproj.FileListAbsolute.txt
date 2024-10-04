@@ -1,0 +1,7 @@
+D:\Lập trình hướng đối tượng\Mối quan hệ\Mối quan hệ\bin\Debug\Mối quan hệ.exe.config
+D:\Lập trình hướng đối tượng\Mối quan hệ\Mối quan hệ\bin\Debug\Mối quan hệ.exe
+D:\Lập trình hướng đối tượng\Mối quan hệ\Mối quan hệ\bin\Debug\Mối quan hệ.pdb
+D:\Lập trình hướng đối tượng\Mối quan hệ\Mối quan hệ\obj\Debug\Mối quan hệ.csproj.AssemblyReference.cache
+D:\Lập trình hướng đối tượng\Mối quan hệ\Mối quan hệ\obj\Debug\Mối quan hệ.csproj.CoreCompileInputs.cache
+D:\Lập trình hướng đối tượng\Mối quan hệ\Mối quan hệ\obj\Debug\Mối quan hệ.exe
+D:\Lập trình hướng đối tượng\Mối quan hệ\Mối quan hệ\obj\Debug\Mối quan hệ.pdb

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Qu\u1EA3n l\u00FD danh s\u00E1ch m\u00E1y t\u00EDnh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EAA16F-30E8-4200-B406-0A8471EAB6A7}|Qu\u1EA3n l\u00FD danh s\u00E1ch m\u00E1y t\u00EDnh\\Qu\u1EA3n l\u00FD danh s\u00E1ch m\u00E1y t\u00EDnh.csproj|D:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Qu\u1EA3n l\u00FD danh s\u00E1ch m\u00E1y t\u00EDnh\\qu\u1EA3n l\u00FD danh s\u00E1ch m\u00E1y t\u00EDnh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EAA16F-30E8-4200-B406-0A8471EAB6A7}|Qu\u1EA3n l\u00FD danh s\u00E1ch m\u00E1y t\u00EDnh\\Qu\u1EA3n l\u00FD danh s\u00E1ch m\u00E1y t\u00EDnh.csproj|solutionrelative:qu\u1EA3n l\u00FD danh s\u00E1ch m\u00E1y t\u00EDnh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EAA16F-30E8-4200-B406-0A8471EAB6A7}|Qu\u1EA3n l\u00FD danh s\u00E1ch m\u00E1y t\u00EDnh\\Qu\u1EA3n l\u00FD danh s\u00E1ch m\u00E1y t\u00EDnh.csproj|d:\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\qu\u1EA3n l\u00FD danh s\u00E1ch m\u00E1y t\u00EDnh\\qu\u1EA3n l\u00FD danh s\u00E1ch m\u00E1y t\u00EDnh\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EAA16F-30E8-4200-B406-0A8471EAB6A7}|Qu\u1EA3n l\u00FD danh s\u00E1ch m\u00E1y t\u00EDnh\\Qu\u1EA3n l\u00FD danh s\u00E1ch m\u00E1y t\u00EDnh.csproj|solutionrelative:qu\u1EA3n l\u00FD danh s\u00E1ch m\u00E1y t\u00EDnh\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Computer.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Qu\u1EA3n l\u00FD danh s\u00E1ch m\u00E1y t\u00EDnh\\Qu\u1EA3n l\u00FD danh s\u00E1ch m\u00E1y t\u00EDnh\\Computer.cs",
+              "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD danh s\u00E1ch m\u00E1y t\u00EDnh\\Computer.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Qu\u1EA3n l\u00FD danh s\u00E1ch m\u00E1y t\u00EDnh\\Qu\u1EA3n l\u00FD danh s\u00E1ch m\u00E1y t\u00EDnh\\Computer.cs",
+              "RelativeToolTip": "Qu\u1EA3n l\u00FD danh s\u00E1ch m\u00E1y t\u00EDnh\\Computer.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswDoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T01:28:53.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Qu\u1EA3n l\u00FD danh s\u00E1ch m\u00E1y t\u00EDnh\\Qu\u1EA3n l\u00FD danh s\u00E1ch m\u00E1y t\u00EDnh\\Program.cs",
+              "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD danh s\u00E1ch m\u00E1y t\u00EDnh\\Program.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Qu\u1EA3n l\u00FD danh s\u00E1ch m\u00E1y t\u00EDnh\\Qu\u1EA3n l\u00FD danh s\u00E1ch m\u00E1y t\u00EDnh\\Program.cs",
+              "RelativeToolTip": "Qu\u1EA3n l\u00FD danh s\u00E1ch m\u00E1y t\u00EDnh\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T01:27:34.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

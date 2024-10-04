@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\M\u1ED1i quan h\u1EC7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B04678B-68CC-4DE6-9B60-BC52EE4CA96E}|M\u1ED1i quan h\u1EC7\\M\u1ED1i quan h\u1EC7.csproj|D:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\M\u1ED1i quan h\u1EC7\\m\u1ED1i quan h\u1EC7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B04678B-68CC-4DE6-9B60-BC52EE4CA96E}|M\u1ED1i quan h\u1EC7\\M\u1ED1i quan h\u1EC7.csproj|solutionrelative:m\u1ED1i quan h\u1EC7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B04678B-68CC-4DE6-9B60-BC52EE4CA96E}|M\u1ED1i quan h\u1EC7\\M\u1ED1i quan h\u1EC7.csproj|d:\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\m\u1ED1i quan h\u1EC7\\m\u1ED1i quan h\u1EC7\\diachi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B04678B-68CC-4DE6-9B60-BC52EE4CA96E}|M\u1ED1i quan h\u1EC7\\M\u1ED1i quan h\u1EC7.csproj|solutionrelative:m\u1ED1i quan h\u1EC7\\diachi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B04678B-68CC-4DE6-9B60-BC52EE4CA96E}|M\u1ED1i quan h\u1EC7\\M\u1ED1i quan h\u1EC7.csproj|D:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\M\u1ED1i quan h\u1EC7\\m\u1ED1i quan h\u1EC7\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B04678B-68CC-4DE6-9B60-BC52EE4CA96E}|M\u1ED1i quan h\u1EC7\\M\u1ED1i quan h\u1EC7.csproj|solutionrelative:m\u1ED1i quan h\u1EC7\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\M\u1ED1i quan h\u1EC7\\M\u1ED1i quan h\u1EC7\\Person.cs",
+              "RelativeDocumentMoniker": "M\u1ED1i quan h\u1EC7\\Person.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\M\u1ED1i quan h\u1EC7\\M\u1ED1i quan h\u1EC7\\Person.cs",
+              "RelativeToolTip": "M\u1ED1i quan h\u1EC7\\Person.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T01:24:07.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DiaChi.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\M\u1ED1i quan h\u1EC7\\M\u1ED1i quan h\u1EC7\\DiaChi.cs",
+              "RelativeDocumentMoniker": "M\u1ED1i quan h\u1EC7\\DiaChi.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\M\u1ED1i quan h\u1EC7\\M\u1ED1i quan h\u1EC7\\DiaChi.cs",
+              "RelativeToolTip": "M\u1ED1i quan h\u1EC7\\DiaChi.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T01:18:26.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\M\u1ED1i quan h\u1EC7\\M\u1ED1i quan h\u1EC7\\Program.cs",
+              "RelativeDocumentMoniker": "M\u1ED1i quan h\u1EC7\\Program.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\M\u1ED1i quan h\u1EC7\\M\u1ED1i quan h\u1EC7\\Program.cs",
+              "RelativeToolTip": "M\u1ED1i quan h\u1EC7\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T01:16:50.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
