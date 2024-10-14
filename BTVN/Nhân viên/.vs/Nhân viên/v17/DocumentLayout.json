@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\C#\\BTVN\\Nh\u00E2n vi\u00EAn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA8C29E-C7A6-40D2-9B3C-CF6E796D49BA}|Nh\u00E2n vi\u00EAn\\Nh\u00E2n vi\u00EAn.csproj|E:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\C#\\BTVN\\Nh\u00E2n vi\u00EAn\\nh\u00E2n vi\u00EAn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA8C29E-C7A6-40D2-9B3C-CF6E796D49BA}|Nh\u00E2n vi\u00EAn\\Nh\u00E2n vi\u00EAn.csproj|solutionrelative:nh\u00E2n vi\u00EAn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA8C29E-C7A6-40D2-9B3C-CF6E796D49BA}|Nh\u00E2n vi\u00EAn\\Nh\u00E2n vi\u00EAn.csproj|e:\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\c#\\btvn\\nh\u00E2n vi\u00EAn\\nh\u00E2n vi\u00EAn\\quanlynhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA8C29E-C7A6-40D2-9B3C-CF6E796D49BA}|Nh\u00E2n vi\u00EAn\\Nh\u00E2n vi\u00EAn.csproj|solutionrelative:nh\u00E2n vi\u00EAn\\quanlynhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA8C29E-C7A6-40D2-9B3C-CF6E796D49BA}|Nh\u00E2n vi\u00EAn\\Nh\u00E2n vi\u00EAn.csproj|E:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\C#\\BTVN\\Nh\u00E2n vi\u00EAn\\nh\u00E2n vi\u00EAn\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA8C29E-C7A6-40D2-9B3C-CF6E796D49BA}|Nh\u00E2n vi\u00EAn\\Nh\u00E2n vi\u00EAn.csproj|solutionrelative:nh\u00E2n vi\u00EAn\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "E:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\C#\\BTVN\\Nh\u00E2n vi\u00EAn\\Nh\u00E2n vi\u00EAn\\NhanVien.cs",
+              "RelativeDocumentMoniker": "Nh\u00E2n vi\u00EAn\\NhanVien.cs",
+              "ToolTip": "E:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\C#\\BTVN\\Nh\u00E2n vi\u00EAn\\Nh\u00E2n vi\u00EAn\\NhanVien.cs",
+              "RelativeToolTip": "Nh\u00E2n vi\u00EAn\\NhanVien.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAkwE4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T06:52:25.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuanLyNhanVien.cs",
+              "DocumentMoniker": "E:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\C#\\BTVN\\Nh\u00E2n vi\u00EAn\\Nh\u00E2n vi\u00EAn\\QuanLyNhanVien.cs",
+              "RelativeDocumentMoniker": "Nh\u00E2n vi\u00EAn\\QuanLyNhanVien.cs",
+              "ToolTip": "E:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\C#\\BTVN\\Nh\u00E2n vi\u00EAn\\Nh\u00E2n vi\u00EAn\\QuanLyNhanVien.cs",
+              "RelativeToolTip": "Nh\u00E2n vi\u00EAn\\QuanLyNhanVien.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAQwF4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T06:52:41.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\C#\\BTVN\\Nh\u00E2n vi\u00EAn\\Nh\u00E2n vi\u00EAn\\Program.cs",
+              "RelativeDocumentMoniker": "Nh\u00E2n vi\u00EAn\\Program.cs",
+              "ToolTip": "E:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\C#\\BTVN\\Nh\u00E2n vi\u00EAn\\Nh\u00E2n vi\u00EAn\\Program.cs",
+              "RelativeToolTip": "Nh\u00E2n vi\u00EAn\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T06:48:07.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

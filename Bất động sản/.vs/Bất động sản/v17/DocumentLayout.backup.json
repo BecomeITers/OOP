@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\C#\\B\u1EA5t \u0111\u1ED9ng s\u1EA3n\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A47D2407-12FF-4C6B-B479-2C7318F28E18}|B\u1EA5t \u0111\u1ED9ng s\u1EA3n\\B\u1EA5t \u0111\u1ED9ng s\u1EA3n.csproj|d:\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\c#\\b\u1EA5t \u0111\u1ED9ng s\u1EA3n\\b\u1EA5t \u0111\u1ED9ng s\u1EA3n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47D2407-12FF-4C6B-B479-2C7318F28E18}|B\u1EA5t \u0111\u1ED9ng s\u1EA3n\\B\u1EA5t \u0111\u1ED9ng s\u1EA3n.csproj|solutionrelative:b\u1EA5t \u0111\u1ED9ng s\u1EA3n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47D2407-12FF-4C6B-B479-2C7318F28E18}|B\u1EA5t \u0111\u1ED9ng s\u1EA3n\\B\u1EA5t \u0111\u1ED9ng s\u1EA3n.csproj|d:\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\c#\\b\u1EA5t \u0111\u1ED9ng s\u1EA3n\\b\u1EA5t \u0111\u1ED9ng s\u1EA3n\\quanlybds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47D2407-12FF-4C6B-B479-2C7318F28E18}|B\u1EA5t \u0111\u1ED9ng s\u1EA3n\\B\u1EA5t \u0111\u1ED9ng s\u1EA3n.csproj|solutionrelative:b\u1EA5t \u0111\u1ED9ng s\u1EA3n\\quanlybds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47D2407-12FF-4C6B-B479-2C7318F28E18}|B\u1EA5t \u0111\u1ED9ng s\u1EA3n\\B\u1EA5t \u0111\u1ED9ng s\u1EA3n.csproj|d:\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\c#\\b\u1EA5t \u0111\u1ED9ng s\u1EA3n\\b\u1EA5t \u0111\u1ED9ng s\u1EA3n\\bds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47D2407-12FF-4C6B-B479-2C7318F28E18}|B\u1EA5t \u0111\u1ED9ng s\u1EA3n\\B\u1EA5t \u0111\u1ED9ng s\u1EA3n.csproj|solutionrelative:b\u1EA5t \u0111\u1ED9ng s\u1EA3n\\bds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BDS.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\C#\\B\u1EA5t \u0111\u1ED9ng s\u1EA3n\\B\u1EA5t \u0111\u1ED9ng s\u1EA3n\\BDS.cs",
+              "RelativeDocumentMoniker": "B\u1EA5t \u0111\u1ED9ng s\u1EA3n\\BDS.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\C#\\B\u1EA5t \u0111\u1ED9ng s\u1EA3n\\B\u1EA5t \u0111\u1ED9ng s\u1EA3n\\BDS.cs",
+              "RelativeToolTip": "B\u1EA5t \u0111\u1ED9ng s\u1EA3n\\BDS.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAIwIgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T07:56:50.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuanLyBDS.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\C#\\B\u1EA5t \u0111\u1ED9ng s\u1EA3n\\B\u1EA5t \u0111\u1ED9ng s\u1EA3n\\QuanLyBDS.cs",
+              "RelativeDocumentMoniker": "B\u1EA5t \u0111\u1ED9ng s\u1EA3n\\QuanLyBDS.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\C#\\B\u1EA5t \u0111\u1ED9ng s\u1EA3n\\B\u1EA5t \u0111\u1ED9ng s\u1EA3n\\QuanLyBDS.cs",
+              "RelativeToolTip": "B\u1EA5t \u0111\u1ED9ng s\u1EA3n\\QuanLyBDS.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAUwGQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T08:22:52.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\C#\\B\u1EA5t \u0111\u1ED9ng s\u1EA3n\\B\u1EA5t \u0111\u1ED9ng s\u1EA3n\\Program.cs",
+              "RelativeDocumentMoniker": "B\u1EA5t \u0111\u1ED9ng s\u1EA3n\\Program.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\C#\\B\u1EA5t \u0111\u1ED9ng s\u1EA3n\\B\u1EA5t \u0111\u1ED9ng s\u1EA3n\\Program.cs",
+              "RelativeToolTip": "B\u1EA5t \u0111\u1ED9ng s\u1EA3n\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T07:56:23.143Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+E:\Lập trình hướng đối tượng\C#\BTVN\Phương tiện\Phương tiện\obj\Debug\Phương tiện.csproj.AssemblyReference.cache
+E:\Lập trình hướng đối tượng\C#\BTVN\Phương tiện\Phương tiện\obj\Debug\Phương tiện.csproj.CoreCompileInputs.cache
+E:\Lập trình hướng đối tượng\C#\BTVN\Phương tiện\Phương tiện\bin\Debug\Phương tiện.exe.config
+E:\Lập trình hướng đối tượng\C#\BTVN\Phương tiện\Phương tiện\bin\Debug\Phương tiện.exe
+E:\Lập trình hướng đối tượng\C#\BTVN\Phương tiện\Phương tiện\bin\Debug\Phương tiện.pdb
+E:\Lập trình hướng đối tượng\C#\BTVN\Phương tiện\Phương tiện\obj\Debug\Phương tiện.exe
+E:\Lập trình hướng đối tượng\C#\BTVN\Phương tiện\Phương tiện\obj\Debug\Phương tiện.pdb

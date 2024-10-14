@@ -1,0 +1,7 @@
+D:\Lập trình hướng đối tượng\C#\Nhân viên ( đa hình )\Nhân viên ( đa hình )\bin\Debug\Nhân viên ( đa hình ).exe.config
+D:\Lập trình hướng đối tượng\C#\Nhân viên ( đa hình )\Nhân viên ( đa hình )\bin\Debug\Nhân viên ( đa hình ).exe
+D:\Lập trình hướng đối tượng\C#\Nhân viên ( đa hình )\Nhân viên ( đa hình )\bin\Debug\Nhân viên ( đa hình ).pdb
+D:\Lập trình hướng đối tượng\C#\Nhân viên ( đa hình )\Nhân viên ( đa hình )\obj\Debug\Nhân viên ( đa hình ).csproj.AssemblyReference.cache
+D:\Lập trình hướng đối tượng\C#\Nhân viên ( đa hình )\Nhân viên ( đa hình )\obj\Debug\Nhân viên ( đa hình ).csproj.CoreCompileInputs.cache
+D:\Lập trình hướng đối tượng\C#\Nhân viên ( đa hình )\Nhân viên ( đa hình )\obj\Debug\Nhân viên ( đa hình ).exe
+D:\Lập trình hướng đối tượng\C#\Nhân viên ( đa hình )\Nhân viên ( đa hình )\obj\Debug\Nhân viên ( đa hình ).pdb
