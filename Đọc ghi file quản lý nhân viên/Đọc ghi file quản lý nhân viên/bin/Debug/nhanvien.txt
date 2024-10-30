@@ -1,0 +1,2 @@
+HanhChinh;NV001;Nguyen Van A;5000000;20
+SanXuat;NV002;Tran Thi B;4000000;500

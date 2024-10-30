@@ -1,0 +1,14 @@
+D:\Lập trình hướng đối tượng\C#\Đọc ghi file\Đọc ghi file\bin\Debug\Đọc ghi file.exe.config
+D:\Lập trình hướng đối tượng\C#\Đọc ghi file\Đọc ghi file\bin\Debug\Đọc ghi file.exe
+D:\Lập trình hướng đối tượng\C#\Đọc ghi file\Đọc ghi file\bin\Debug\Đọc ghi file.pdb
+D:\Lập trình hướng đối tượng\C#\Đọc ghi file\Đọc ghi file\obj\Debug\Đọc ghi file.csproj.AssemblyReference.cache
+D:\Lập trình hướng đối tượng\C#\Đọc ghi file\Đọc ghi file\obj\Debug\Đọc ghi file.csproj.CoreCompileInputs.cache
+D:\Lập trình hướng đối tượng\C#\Đọc ghi file\Đọc ghi file\obj\Debug\Đọc ghi file.exe
+D:\Lập trình hướng đối tượng\C#\Đọc ghi file\Đọc ghi file\obj\Debug\Đọc ghi file.pdb
+E:\Lập trình hướng đối tượng\C#\Đọc ghi file\Đọc ghi file\obj\Debug\Đọc ghi file.csproj.AssemblyReference.cache
+E:\Lập trình hướng đối tượng\C#\Đọc ghi file\Đọc ghi file\obj\Debug\Đọc ghi file.csproj.CoreCompileInputs.cache
+E:\Lập trình hướng đối tượng\C#\Đọc ghi file\Đọc ghi file\obj\Debug\Đọc ghi file.exe
+E:\Lập trình hướng đối tượng\C#\Đọc ghi file\Đọc ghi file\obj\Debug\Đọc ghi file.pdb
+E:\Lập trình hướng đối tượng\C#\Đọc ghi file\Đọc ghi file\bin\Debug\Đọc ghi file.exe.config
+E:\Lập trình hướng đối tượng\C#\Đọc ghi file\Đọc ghi file\bin\Debug\Đọc ghi file.exe
+E:\Lập trình hướng đối tượng\C#\Đọc ghi file\Đọc ghi file\bin\Debug\Đọc ghi file.pdb

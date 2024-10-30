@@ -1,0 +1,4 @@
+Ma giao dich: GD001, Ngay giao dich: 2024-10-01, Don gia: 5000000, So luong: 10, Loai vang: 9999
+Ma giao dich: GD002, Ngay giao dich: 2024-10-02, Don gia: 23000, So luong: 100, Loai tien: USD, Ty gia: 23000
+
+Tong gia tri: 52300000

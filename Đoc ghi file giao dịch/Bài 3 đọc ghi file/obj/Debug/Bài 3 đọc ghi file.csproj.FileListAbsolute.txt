@@ -1,0 +1,14 @@
+D:\Lập trình hướng đối tượng\C#\Bài 3 đọc ghi file\Bài 3 đọc ghi file\bin\Debug\Bài 3 đọc ghi file.exe.config
+D:\Lập trình hướng đối tượng\C#\Bài 3 đọc ghi file\Bài 3 đọc ghi file\bin\Debug\Bài 3 đọc ghi file.exe
+D:\Lập trình hướng đối tượng\C#\Bài 3 đọc ghi file\Bài 3 đọc ghi file\bin\Debug\Bài 3 đọc ghi file.pdb
+D:\Lập trình hướng đối tượng\C#\Bài 3 đọc ghi file\Bài 3 đọc ghi file\obj\Debug\Bài 3 đọc ghi file.csproj.AssemblyReference.cache
+D:\Lập trình hướng đối tượng\C#\Bài 3 đọc ghi file\Bài 3 đọc ghi file\obj\Debug\Bài 3 đọc ghi file.csproj.CoreCompileInputs.cache
+D:\Lập trình hướng đối tượng\C#\Bài 3 đọc ghi file\Bài 3 đọc ghi file\obj\Debug\Bài 3 đọc ghi file.exe
+D:\Lập trình hướng đối tượng\C#\Bài 3 đọc ghi file\Bài 3 đọc ghi file\obj\Debug\Bài 3 đọc ghi file.pdb
+E:\Lập trình hướng đối tượng\C#\Bài 3 đọc ghi file\Bài 3 đọc ghi file\bin\Debug\Bài 3 đọc ghi file.exe.config
+E:\Lập trình hướng đối tượng\C#\Bài 3 đọc ghi file\Bài 3 đọc ghi file\bin\Debug\Bài 3 đọc ghi file.exe
+E:\Lập trình hướng đối tượng\C#\Bài 3 đọc ghi file\Bài 3 đọc ghi file\bin\Debug\Bài 3 đọc ghi file.pdb
+E:\Lập trình hướng đối tượng\C#\Bài 3 đọc ghi file\Bài 3 đọc ghi file\obj\Debug\Bài 3 đọc ghi file.csproj.AssemblyReference.cache
+E:\Lập trình hướng đối tượng\C#\Bài 3 đọc ghi file\Bài 3 đọc ghi file\obj\Debug\Bài 3 đọc ghi file.csproj.CoreCompileInputs.cache
+E:\Lập trình hướng đối tượng\C#\Bài 3 đọc ghi file\Bài 3 đọc ghi file\obj\Debug\Bài 3 đọc ghi file.exe
+E:\Lập trình hướng đối tượng\C#\Bài 3 đọc ghi file\Bài 3 đọc ghi file\obj\Debug\Bài 3 đọc ghi file.pdb

@@ -1,0 +1,7 @@
+E:\Lập trình hướng đối tượng\C#\Đọc ghi file quản lý nhân viên\Đọc ghi file quản lý nhân viên\bin\Debug\Đọc ghi file quản lý nhân viên.exe.config
+E:\Lập trình hướng đối tượng\C#\Đọc ghi file quản lý nhân viên\Đọc ghi file quản lý nhân viên\bin\Debug\Đọc ghi file quản lý nhân viên.exe
+E:\Lập trình hướng đối tượng\C#\Đọc ghi file quản lý nhân viên\Đọc ghi file quản lý nhân viên\bin\Debug\Đọc ghi file quản lý nhân viên.pdb
+E:\Lập trình hướng đối tượng\C#\Đọc ghi file quản lý nhân viên\Đọc ghi file quản lý nhân viên\obj\Debug\Đọc ghi file quản lý nhân viên.csproj.AssemblyReference.cache
+E:\Lập trình hướng đối tượng\C#\Đọc ghi file quản lý nhân viên\Đọc ghi file quản lý nhân viên\obj\Debug\Đọc ghi file quản lý nhân viên.csproj.CoreCompileInputs.cache
+E:\Lập trình hướng đối tượng\C#\Đọc ghi file quản lý nhân viên\Đọc ghi file quản lý nhân viên\obj\Debug\Đọc ghi file quản lý nhân viên.exe
+E:\Lập trình hướng đối tượng\C#\Đọc ghi file quản lý nhân viên\Đọc ghi file quản lý nhân viên\obj\Debug\Đọc ghi file quản lý nhân viên.pdb

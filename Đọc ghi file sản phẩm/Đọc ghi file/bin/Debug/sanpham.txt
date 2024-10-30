@@ -1,0 +1,3 @@
+DienTu;SP001;Laptop;20000;5;12
+ThucPham;SP002;Sua Tuoi;5000;10;2024-12-15
+DoGom;SP003;Binh Su;3000;7;Nghe Nhan: Tran Van A

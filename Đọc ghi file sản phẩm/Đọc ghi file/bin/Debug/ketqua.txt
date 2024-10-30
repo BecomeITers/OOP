@@ -1,0 +1,5 @@
+Ma san pham: SP001, Ten san pham: Laptop, Don gia: 20000, So luong: 5, Bao hanh: 12
+Ma san pham: SP002, Ten san pham: Sua Tuoi, Don gia: 5000, So luong: 10, Han su dung: 2024-12-15
+Ma san pham: SP003, Ten san pham: Binh Su, Don gia: 3000, So luong: 7, Nghe nhan: Nghe Nhan: Tran Van A
+
+Tong gia tri hang hoa: 171000
